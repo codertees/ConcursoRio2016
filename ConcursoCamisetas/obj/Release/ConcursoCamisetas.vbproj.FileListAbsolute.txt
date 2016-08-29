@@ -1,0 +1,10 @@
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Release\Concurso Juegos Olimpicos RIO 2016.exe.config
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Release\Concurso Juegos Olimpicos RIO 2016.exe
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Release\Concurso Juegos Olimpicos RIO 2016.pdb
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Release\Concurso Juegos Olimpicos RIO 2016.xml
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Release\ConcursoCamisetas.frmMedalleria.resources
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Release\ConcursoCamisetas.Resources.resources
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Release\ConcursoCamisetas.vbproj.GenerateResource.Cache
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Release\Concurso Juegos Olimpicos RIO 2016.exe
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Release\Concurso Juegos Olimpicos RIO 2016.xml
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Release\Concurso Juegos Olimpicos RIO 2016.pdb

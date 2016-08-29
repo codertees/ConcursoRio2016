@@ -1,0 +1,20 @@
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\ConcursoCamisetas.exe.config
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\ConcursoCamisetas.exe
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\ConcursoCamisetas.pdb
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\ConcursoCamisetas.xml
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.frmMedalleria.resources
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.Resources.resources
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.vbproj.GenerateResource.Cache
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.exe
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.xml
+E:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.pdb
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\Concurso Juegos Olimpicos RIO 2016.exe.config
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\Concurso Juegos Olimpicos RIO 2016.exe
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\Concurso Juegos Olimpicos RIO 2016.pdb
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\bin\Debug\Concurso Juegos Olimpicos RIO 2016.xml
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.frmMedalleria.resources
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.Resources.resources
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\ConcursoCamisetas.vbproj.GenerateResource.Cache
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\Concurso Juegos Olimpicos RIO 2016.exe
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\Concurso Juegos Olimpicos RIO 2016.xml
+D:\Escritorio\ConcursoCamisetas\ConcursoCamisetas\obj\Debug\Concurso Juegos Olimpicos RIO 2016.pdb
